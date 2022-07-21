@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable-v24/bg_text2.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/background.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/bg_app_bar.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/bg_customer_info.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/bg_info_activity_btn.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/bg_sort_btn.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/bg_text.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_call.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_customer_disabled.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_customer_enabled.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_customers.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_success_tick.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_transaction_disabled.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_transaction_enabled.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/drawable/ic_transactions.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_customer.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_customer_details.xml" value="0.10666666666666667" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_customer_info.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_customer_list.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_send_money.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_send_to_user.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_sendtouser.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_show_allusers.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_show_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_show_user.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_transaction.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_transaction_details.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_transaction_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/activity_userdata.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/customers_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/dropdown_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/enter_amount_layout.xml" value="0.5" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/item_transaction.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/item_user.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/my_dropdown_item.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/my_selected_item.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/row_customers.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/row_transaction.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/selected_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/transaction_row.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/transfer_history_list.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/layout/userslist.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/ApnaBank/app/src/main/res/menu/menu_history.xml" value="0.1" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/activity_customer_details.xml" value="0.176" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/activity_customer_list.xml" value="0.176" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/activity_main.xml" value="0.17572463768115942" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.17572463768115942" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/activity_transaction_details.xml" value="0.2" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/dropdown_item.xml" value="0.17572463768115942" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/row_customers.xml" value="0.17572463768115942" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/row_transaction.xml" value="0.17572463768115942" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/layout/selected_item.xml" value="0.17572463768115942" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1615" />
+        <entry key="..\:/Appdevelopment/ApnaBank-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1615" />
+        <entry key="..\:/Appdevelopment/TheSparksBank/app/src/main/res/layout/activity_customer_details.xml" value="0.12158054711246201" />
+        <entry key="..\:/Appdevelopment/TheSparksBank/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Appdevelopment/TheSparksBank/app/src/main/res/layout/activity_transaction_details.xml" value="0.1" />
+        <entry key="..\:/Appdevelopment/TheSparksBank/app/src/main/res/layout/row_customers.xml" value="0.1" />
+        <entry key="..\:/Appdevelopment/TheSparksBank/app/src/main/res/layout/row_transaction.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

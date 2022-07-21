@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TheSparksBank</string>
+    <string name="viewAllCustomers">View All Customers</string>
+
+    <string name="heading">TheSparksBamk</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dbdrop">DROP TABLE IF EXISTS</string>
+    <string name="customerList">Customer List</string>
+    <string name="name">Name: </string>
+    <string name="email">Email: </string>
+    <string name="balance">Balance:</string>
+    <string name="amount">Amount</string>
+    <string name="send_to">Send To</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="transfer">Transfer</string>
+    <string name="amountWarning">Please Enter the Amount!</string>
+    <string name="amountLimitWarning">Not Enough Balance!</string>
+    <string name="transaction">Transaction History</string>
+    <string name="transactionList">Transaction History</string>
+    <string name="sender">Sender: </string>
+    <string name="receiver">Receiver: </string>
+    <string name="amountText">Amount: </string>
+    <string name="date">Date: </string>
+    <string name="noTransaction">No Transaction Made!</string>
+</resources>
