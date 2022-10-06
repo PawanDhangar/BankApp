@@ -15,7 +15,7 @@
         android:layout_height="54dp"
         android:background="@color/design_default_color_primary"
         android:padding="15dp"
-        android:text="TheSparksBank"
+        android:text="BankingApp"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20sp"

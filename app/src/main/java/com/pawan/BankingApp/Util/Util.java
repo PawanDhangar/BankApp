@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank.Util;
+package com.pawan.BankingApp.Util;
 
 public class Util {
     public static final int DATABASE_VERSION = 1;

@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank.Adapter;
+package com.pawan.BankingApp.Adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.pawan.TheSparksBank.R;
-import com.pawan.TheSparksBank.Model.Transaction;
+import com.pawan.BankingApp.R;
+import com.pawan.BankingApp.Model.Transaction;
 
 import java.text.SimpleDateFormat;
 import java.util.List;

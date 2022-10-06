@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank.Data;
+package com.pawan.BankingApp.Data;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,9 +7,9 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.pawan.TheSparksBank.R;
-import com.pawan.TheSparksBank.Model.CustomerDetails;
-import com.pawan.TheSparksBank.Util.Util;
+import com.pawan.BankingApp.R;
+import com.pawan.BankingApp.Model.CustomerDetails;
+import com.pawan.BankingApp.Util.Util;
 
 import java.util.ArrayList;
 import java.util.List;

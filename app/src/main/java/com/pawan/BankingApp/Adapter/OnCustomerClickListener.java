@@ -1,7 +1,7 @@
-package com.pawan.TheSparksBank.Adapter;
+package com.pawan.BankingApp.Adapter;
 
 
-import com.pawan.TheSparksBank.Model.CustomerDetails;
+import com.pawan.BankingApp.Model.CustomerDetails;
 
 public interface OnCustomerClickListener {
     void onCustomerClick(CustomerDetails customer);

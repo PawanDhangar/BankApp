@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank;
+package com.pawan.BankingApp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -9,9 +9,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.pawan.TheSparksBank.Adapter.OnCustomerClickListener;
-import com.pawan.TheSparksBank.Adapter.RecyclerViewAdapter;
-import com.pawan.TheSparksBank.Model.CustomerDetails;
+import com.pawan.BankingApp.Adapter.OnCustomerClickListener;
+import com.pawan.BankingApp.Adapter.RecyclerViewAdapter;
+import com.pawan.BankingApp.Model.CustomerDetails;
 
 import java.io.Serializable;
 import java.util.List;
@@ -51,7 +51,7 @@ public class CustomerList extends AppCompatActivity implements OnCustomerClickLi
 
     @Override
     public void onCustomerClick(CustomerDetails customer) {
-        Intent intent = new Intent(CustomerList.this, com.pawan.TheSparksBank.CustomerDetails.class);
+        Intent intent = new Intent(CustomerList.this, com.pawan.BankingApp.CustomerDetails.class);
         intent.putExtra("list", (Serializable) customerDetailsList);
         intent.putExtra("selectedCustomer", (Serializable) customer);
         startActivity(intent);

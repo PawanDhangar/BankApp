@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank.Model;
+package com.pawan.BankingApp.Model;
 
 import java.util.Date;
 

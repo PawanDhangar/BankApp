@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank;
+package com.pawan.BankingApp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -17,9 +17,9 @@ import android.widget.Toast;
 
 
 
-import com.pawan.TheSparksBank.Data.DatabaseHandler;
-import com.pawan.TheSparksBank.Model.Transaction;
-import com.pawan.TheSparksBank.Model.TransactionList;
+import com.pawan.BankingApp.Data.DatabaseHandler;
+import com.pawan.BankingApp.Model.Transaction;
+import com.pawan.BankingApp.Model.TransactionList;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -28,8 +28,8 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class CustomerDetails extends AppCompatActivity {
-    List<com.pawan.TheSparksBank.Model.CustomerDetails> customerDetailsList;
-    com.pawan.TheSparksBank.Model.CustomerDetails senderCustomer;
+    List<com.pawan.BankingApp.Model.CustomerDetails> customerDetailsList;
+    com.pawan.BankingApp.Model.CustomerDetails senderCustomer;
     List<String> spinnerList;
     private Spinner spinner;
 
@@ -54,8 +54,8 @@ public class CustomerDetails extends AppCompatActivity {
         Log.d("money", "onCreate: " + transferAmount);
 
         Intent getIntent = getIntent();
-        customerDetailsList = (List<com.pawan.TheSparksBank.Model.CustomerDetails>) getIntent.getSerializableExtra("list");
-        senderCustomer = (com.pawan.TheSparksBank.Model.CustomerDetails) getIntent.getSerializableExtra("selectedCustomer");
+        customerDetailsList = (List<com.pawan.BankingApp.Model.CustomerDetails>) getIntent.getSerializableExtra("list");
+        senderCustomer = (com.pawan.BankingApp.Model.CustomerDetails) getIntent.getSerializableExtra("selectedCustomer");
 
         name.setText(senderCustomer.getName());
         email.setText(senderCustomer.getEmail());
@@ -87,8 +87,8 @@ public class CustomerDetails extends AppCompatActivity {
                         Toast.makeText(CustomerDetails.this, R.string.amountLimitWarning, Toast.LENGTH_LONG).show();
                     }else{
                         String selectedCustomerName = spinner.getSelectedItem().toString();
-                        com.pawan.TheSparksBank.Model.CustomerDetails receiverCustomer = new com.pawan.TheSparksBank.Model.CustomerDetails();
-                        for(com.pawan.TheSparksBank.Model.CustomerDetails customerDetails : customerDetailsList){
+                        com.pawan.BankingApp.Model.CustomerDetails receiverCustomer = new com.pawan.BankingApp.Model.CustomerDetails();
+                        for(com.pawan.BankingApp.Model.CustomerDetails customerDetails : customerDetailsList){
                             if(customerDetails.getName().equals(selectedCustomerName)){
                                 receiverCustomer.setName(customerDetails.getName());
                                 receiverCustomer.setEmail(customerDetails.getEmail());

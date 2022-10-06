@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank;
+package com.pawan.BankingApp;
 
 import org.junit.Test;
 

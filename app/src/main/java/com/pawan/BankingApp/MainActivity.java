@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank;
+package com.pawan.BankingApp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,8 +10,8 @@ import android.widget.Button;
 
 
 
-import com.pawan.TheSparksBank.Data.DatabaseHandler;
-import com.pawan.TheSparksBank.Model.CustomerDetails;
+import com.pawan.BankingApp.Data.DatabaseHandler;
+import com.pawan.BankingApp.Model.CustomerDetails;
 
 import java.io.Serializable;
 import java.util.List;

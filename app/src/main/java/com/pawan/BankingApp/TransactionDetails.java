@@ -1,4 +1,4 @@
-package com.pawan.TheSparksBank;
+package com.pawan.BankingApp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -7,9 +7,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 
 
-import com.pawan.TheSparksBank.Adapter.TransactionAdapter;
-import com.pawan.TheSparksBank.Model.Transaction;
-import com.pawan.TheSparksBank.Model.TransactionList;
+import com.pawan.BankingApp.Adapter.TransactionAdapter;
+import com.pawan.BankingApp.Model.Transaction;
+import com.pawan.BankingApp.Model.TransactionList;
 
 import java.util.List;
 
