@@ -1,0 +1,107 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pawan.BankingApp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:5:5-38:19
+12        android:allowBackup="true"
+12-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\PAWAN\.gradle\caches\transforms-3\02483169c4c9e0ddffa88758188ac6f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.ApnaBank" >
+21-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:11:9-46
+22        <activity
+22-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:12:9-21:20
+23            android:name="com.pawan.BankingApp.SplashScreen"
+23-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:13:13-61
+24            android:exported="true"
+24-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:15:13-36
+25            android:screenOrientation="portrait" >
+25-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:14:13-49
+26            <intent-filter>
+26-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:16:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:17:17-69
+27-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:19:17-77
+29-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:22:9-25:39
+33            android:name="com.pawan.BankingApp.TransactionDetails"
+33-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:23:13-67
+34            android:exported="true"
+34-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:25:13-36
+35            android:screenOrientation="portrait" />
+35-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:24:13-49
+36        <activity
+36-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:26:9-29:39
+37            android:name="com.pawan.BankingApp.CustomerList"
+37-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:27:13-61
+38            android:exported="true"
+38-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:29:13-36
+39            android:screenOrientation="portrait" />
+39-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:28:13-49
+40        <activity
+40-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:30:9-33:39
+41            android:name="com.pawan.BankingApp.CustomerDetails"
+41-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:31:13-64
+42            android:exported="true"
+42-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:33:13-36
+43            android:screenOrientation="portrait" />
+43-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:32:13-49
+44        <activity
+44-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:34:9-37:39
+45            android:name="com.pawan.BankingApp.MainActivity"
+45-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:35:13-61
+46            android:exported="false"
+46-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:37:13-37
+47            android:screenOrientation="portrait" />
+47-->D:\Appdevelopment\BankingApp\app\src\main\AndroidManifest.xml:36:13-49
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+51            android:authorities="com.pawan.BankingApp.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PAWAN\.gradle\caches\transforms-3\f1920f1d9631b904725b19a966861cf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PAWAN\.gradle\caches\transforms-3\e2a4092d19f5ec1c3a53b27f970ef211\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PAWAN\.gradle\caches\transforms-3\e2a4092d19f5ec1c3a53b27f970ef211\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PAWAN\.gradle\caches\transforms-3\e2a4092d19f5ec1c3a53b27f970ef211\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>

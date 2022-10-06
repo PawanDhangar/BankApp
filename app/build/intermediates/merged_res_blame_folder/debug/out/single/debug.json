@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_logowelcome.jpg.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\logowelcome.jpg"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_row_customers.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\row_customers.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_success_tick.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_success_tick.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_success_tick.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_success_tick.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_vertical.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\vertical.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_success_tick.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_success_tick.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bank.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\bank.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_customer_details.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_customer_details.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_details.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_transaction_details.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_success_tick.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_success_tick.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_customer_list.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_customer_list.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_row_transaction.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\row_transaction.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_text.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\bg_text.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_myapp.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\myapp.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_selected_item.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\selected_item.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_dropdown_item.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_success_tick.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_success_tick.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_success_tick.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_success_tick.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_customer_info.xml.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\drawable\\bg_customer_info.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_success_tick.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_success_tick.png"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer_details.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_customer_details.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_transaction.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\row_transaction.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\selected_item.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\selected_item.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_details.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_transaction_details.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dropdown_item.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_customers.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\row_customers.xml"
+    },
+    {
+        "merged": "D:\\Appdevelopment\\BankingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer_list.xml",
+        "source": "D:\\Appdevelopment\\BankingApp\\app\\src\\main\\res\\layout\\activity_customer_list.xml"
+    }
+]
