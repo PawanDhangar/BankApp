@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/HB795HK/Vertical.png)
+![Logo](https://i.ibb.co/zJmbR2J/Vertical.png)
 
 
 # Banking Application
